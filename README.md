@@ -231,7 +231,7 @@ df
     
         `jupyter lab logs/notebooks/results.ipynb`
         
-    - To see some sample results please see the `interface_mapper/sample_results.html` file    
+    - To see some sample results please see this [file](https://htmlpreview.github.io/?https://github.com/jorgeholguin/interface_mapper/blob/master/sample_results.html) 
     
 - Below is an example of the output file used to create the results presented in the Jupyter Notebook
 - This file will be stored in `interface_mapper/data/enrichment_analysis`
